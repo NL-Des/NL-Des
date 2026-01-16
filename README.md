@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour ! Je suis Nathan Léonard.</h1>
+<h1 align="center">Bonjour !</h1>
 
 ###
 
